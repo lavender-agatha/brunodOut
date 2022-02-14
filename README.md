@@ -4,7 +4,7 @@
 - 🌱 I’m currently a Master's Candidate pursuing my degree in Linguistics at UFFS (Federal University of Fronteira Sul, Brazil)
 - 💞️ I’m looking to collaborate on research projects (psych experiments)
 - 
-- 📫 How to reach me: moreira.guedes -at- estudante.uffs.edu.br (join the parts sepparated by @, so I can keep receiving no spam)
+- 📫 How to reach me: code -at- brunodOut -dot- dev  (join the parts sepparated by '@' and '.', so I can keep receiving no spam)
 
 <!---
 brunodOut/brunodOut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
